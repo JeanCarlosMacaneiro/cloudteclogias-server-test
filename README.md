@@ -4,7 +4,7 @@
 ## Init server commands:
 #### Install all dependence node modules by project:
 ```
-$ npm install
+npm install
 ```
 #### Modify file .ENV, change <userBD> for your user bd and <userBDPassword> your password bd
 ```
